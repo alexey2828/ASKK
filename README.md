@@ -1,2 +1,2 @@
 # ASKK
-ASKK - android application (ASA)
+# askk
